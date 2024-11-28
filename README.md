@@ -16,13 +16,21 @@ _I made this project as it my first projet in github just for fun, it allows me 
 
 ## Skills and Experience: In AWS and DEVOPS TOOLS
 ☁️ AWS (ECS, CloudWatch, S3, DynamoDB, VPC, EC2, IAM, Lambda, EventBridge)
+
 🏗️ Infrastructure as Code (Terraform)
+
 🤖 CI/CD (Jenkins, CodePipeline)
+
 🐳 Containers (Docker)
+
 🐧 Linux
+
 🔄 Configuration Management (Ansible)
+
 📈 Monitoring & Observability
+
 🤝 Agile & Collaboration (Jira, Confluence)
+
 
 🔭 I’m currently working on AWS infrastructure projects, focusing on automation and scalability.  I’m currently learning advanced AWS services and features to enhance cloud solutions.  
 🌱 I’m looking to collaborate on AWS cloud architecture and DevOps practices. I’m looking for help with optimizing cloud infrastructure and implementing best practices.
@@ -34,17 +42,29 @@ _I made this project as it my first projet in github just for fun, it allows me 
 
 ## TECHNICAL SLILLS AND INTERESTS:
 Languages: C/C++, Java, JavaScript, HTML, CSS. 
+
 Frameworks: Bootstrap. 
+
 Cloud: AWS [IAM, EC2, LAMBDA, MONITORING, VPC, RDS], Azure. 
-Databases: Relational Database [MySQL, MongoDB], SAP HANA DB. 
+
+Databases: Relational Database [MySQL, MongoDB], SAP HANA DB.
+
 Management Tools: SAP HANA Studio, SAP B1, SSMS, SAP SLD. 
+
 Relevant Coursework: Data Structures & Algorithms, OOPs, DBMS, Software Engineering, Cloud Computing. 
+
 Areas of Interest: Software Development, Web Development, Cloud Technologies. 
+
 Soft Skills: Problem Solving, Self-learning, Leadership, Time Management, Highly Adaptable.
+
 
 ## ACHIEVEMENTS  
 • Microsoft Certified AI Engineer Associate
+
 • Google Cloud Skill Boost Member 
+
 • Salesforce Trailblazer 
+
 • Microsoft Azure Fundamentals Badge
+
 • AIR3 In Jamia Millia Islamia University, New Delhi Entrance Exam. 
