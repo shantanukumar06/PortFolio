@@ -40,7 +40,8 @@ Databases: Relational Database [MySQL, MongoDB], SAP HANA DB.
 Management Tools: SAP HANA Studio, SAP B1, SSMS, SAP SLD. 
 Relevant Coursework: Data Structures & Algorithms, OOPs, DBMS, Software Engineering, Cloud Computing. 
 Areas of Interest: Software Development, Web Development, Cloud Technologies. 
-Soft Skills: Problem Solving, Self-learning, Leadership, Time Management, Highly Adaptable. 
+Soft Skills: Problem Solving, Self-learning, Leadership, Time Management, Highly Adaptable.
+
 ## ACHIEVEMENTS  
 • Microsoft Certified AI Engineer Associate
 • Google Cloud Skill Boost Member 
