@@ -10,7 +10,7 @@ I also use some websites to create AWS architecture diagrams, which helps me vis
 🚀 **I'm currently working with **_Uneecops Technologies_**, where I leverage my expertise in AWS cloud technologies to deliver high-quality solutions.**
 
 
-## I am passionate about technology and the role it plays in enabling businesses to achieve their goals. I am excited to continue to grow my career in the field of DevOps and look forward to contributing to the success of future projects and teams.
+**I am passionate about technology and the role it plays in enabling businesses to achieve their goals. I am excited to continue to grow my career in the field of DevOps and look forward to contributing to the success of future projects and teams.**
 
 _I made this project as it my first projet in github just for fun, it allows me demonstrate my technical skill in cloud computing._
 
